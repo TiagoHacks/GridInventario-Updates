@@ -1,13 +1,13 @@
 {
   "appId": "GridInventario",
   "channel": "beta",
-  "version": "1.1.8.0",
-  "displayVersion": "v1.1.8 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v1.1.8-beta/GridInventario_v1.1.8_BETA.zip",
-  "sha256": "sha256:a03fa6302d22f4bbb8109fe36557b08d7117e609cc9afbdf92cb4d1a32a8dee3",
+  "version": "1.1.9.0",
+  "displayVersion": "v1.1.9 BETA",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v1.1.9BETA/GridInventario_v1.1.9_BETA.zip",
+  "sha256": "sha256:e049f5336be0a09f5977ad7ee13a86618c2c05c429d12259f71a0c9b2cf44414",
   "mandatory": true,
-  "publishedAtUtc": "2026-10-01T03:24:32.2442572Z",
+  "publishedAtUtc": "2026-10-01T04:24:51.8852711Z",
   "notes": [
-    "Test inicial del sistema de update remota"
+    "Mejora de css y prueba intercomputacional"
   ]
 }
