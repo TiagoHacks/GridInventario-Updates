@@ -1,13 +1,14 @@
 {
   "appId": "GridInventario",
   "channel": "beta",
-  "version": "2.1.0.0",
-  "displayVersion": "v2.1.0 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.0-beta/GridInventario_v2.1.0_BETA.zip",
-  "sha256": "sha256:8570dba1b08bd19d79b0563cec4382cd04f925620757ec45e75f8dc2f710349d",
+  "version": "2.1.2.0",
+  "displayVersion": "v2.1.2 BETA",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.2-beta/GridInventario_v2.1.2_BETA.zip",
+  "sha256": "sha256:c80996e3f975433dbf921212475d938746457eda64a4ad67779330458ef3e4b9",
   "mandatory": true,
-  "publishedAtUtc": "2026-10-01T06:35:58.8448347Z",
+  "publishedAtUtc": "2026-10-01T14:02:06.9811898Z",
   "notes": [
-    "Mejoras circus e implementaciones de seguridad"
+    "Mejoras del temas, implementacion del tema slime",
+    "Mejoras en el sistema de actualizacion"
   ]
 }
