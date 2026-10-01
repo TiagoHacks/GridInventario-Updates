@@ -1,13 +1,13 @@
 {
   "appId": "GridInventario",
   "channel": "beta",
-  "version": "1.1.9.0",
-  "displayVersion": "v1.1.9 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v1.1.9BETA/GridInventario_v1.1.9_BETA.zip",
-  "sha256": "sha256:e049f5336be0a09f5977ad7ee13a86618c2c05c429d12259f71a0c9b2cf44414",
+  "version": "2.0.0.0",
+  "displayVersion": "v2.0.0 BETA",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.0.0-beta/GridInventario_v2.0.0_BETA.zip",
+  "sha256": "sha256:a565a938f5cede43492995016f28ec5d309733ed8b5f30df55fbeb1a8bcb0720",
   "mandatory": true,
-  "publishedAtUtc": "2026-10-01T04:24:51.8852711Z",
+  "publishedAtUtc": "2026-10-01T05:30:18.7792807Z",
   "notes": [
-    "Mejora de css y prueba intercomputacional"
+    "Mejora de temas e implementacion del tema gambling"
   ]
 }
