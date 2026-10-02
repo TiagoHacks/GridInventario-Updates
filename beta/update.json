@@ -1,14 +1,16 @@
 {
   "appId": "GridInventario",
   "channel": "beta",
-  "version": "2.1.2.0",
-  "displayVersion": "v2.1.2 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.2-beta/GridInventario_v2.1.2_BETA.zip",
-  "sha256": "sha256:c80996e3f975433dbf921212475d938746457eda64a4ad67779330458ef3e4b9",
+  "version": "2.1.5.0",
+  "displayVersion": "v2.1.5 BETA",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.5-beta/GridInventario_v2.1.5_BETA.zip",
+  "sha256": "sha256:ac5f96e4961eb73746843ea3e59823b60d14a294e983d6254e828c69f2eb0b05",
   "mandatory": true,
-  "publishedAtUtc": "2026-10-01T14:02:06.9811898Z",
+  "publishedAtUtc": "2026-10-02T16:26:47.5332719Z",
   "notes": [
-    "Mejoras del temas, implementacion del tema slime",
-    "Mejoras en el sistema de actualizacion"
+    "Prueba de conexion a base de datos",
+    "Se implemento un sistema de conexion a base de datos mejorada",
+    "los sistemas de registro ahora seran compatibles con otros dispoditivos",
+    "Se arreglaron algunas interacciones con botones y bugs"
   ]
 }
