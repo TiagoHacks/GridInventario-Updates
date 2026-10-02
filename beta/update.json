@@ -1,13 +1,17 @@
 {
   "appId": "GridInventario",
   "channel": "beta",
-  "version": "2.1.6.0",
-  "displayVersion": "v2.1.6 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.6-beta/GridInventario_v2.1.6_BETA.zip",
-  "sha256": "sha256:96f704936d436494fe224be81d9b49bbe3444b4235a80f69bb4c75c8931fcd25",
+  "version": "2.1.7.0",
+  "displayVersion": "v2.1.7 BETA",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.7-BETA/GridInventario_v2.1.7_BETA.zip",
+  "sha256": "sha256:cefb52745242e110540bf6f140625e48a0bccae616bdfe33cf86bb8482c201eb",
   "mandatory": true,
-  "publishedAtUtc": "2026-10-02T17:47:56.5852341Z",
+  "updateMode": "forced",
+  "forceAfterMinutes": 1,
+  "publishedAtUtc": "2026-10-02T19:25:43.3303498Z",
   "notes": [
-    "Se soluciono el problema de error de conexion"
+    "Mejoras de seguridad",
+    "Sistema de base de datos mejorada",
+    "Proxima actu mobil"
   ]
 }
