@@ -3,15 +3,13 @@
   "channel": "stable",
   "version": "2.2.3.0",
   "displayVersion": "v2.2.3 STABLE",
-  "packageUrl": "GridInventario_v2.2.3_STABLE.zip",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.3-STABLE/GridInventario_v2.2.3_STABLE.zip",
   "sha256": "sha256:302008affab67df7bd1a6188c565fd459dedf16f6b24ddc026856bed4994ed8f",
-  "mandatory": true,
-  "updateMode": "mandatory",
+  "mandatory": false,
+  "updateMode": "optional",
   "forceAfterMinutes": 0,
-  "publishedAtUtc": "2026-10-03T21:11:39.3788788Z",
+  "publishedAtUtc": "2026-10-03T21:33:20.0756387Z",
   "notes": [
-    "Mejoras de sistema:",
-    "-se implemento conexion mobile",
-    "-sistema de conexion a nube tambien"
+    "SOLUCIONDE UPDATE"
   ]
 }
