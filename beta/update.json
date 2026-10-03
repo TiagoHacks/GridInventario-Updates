@@ -1,17 +1,17 @@
 {
   "appId": "GridInventario",
-  "channel": "beta",
-  "version": "2.1.7.0",
-  "displayVersion": "v2.1.7 BETA",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.1.7-BETA/GridInventario_v2.1.7_BETA.zip",
-  "sha256": "sha256:cefb52745242e110540bf6f140625e48a0bccae616bdfe33cf86bb8482c201eb",
+  "channel": "stable",
+  "version": "2.2.0.0",
+  "displayVersion": "v2.2.0 STABLE",
+  "packageUrl": "GridInventario_v2.2.0_STABLE.zip",
+  "sha256": "sha256:302008affab67df7bd1a6188c565fd459dedf16f6b24ddc026856bed4994ed8f",
   "mandatory": true,
-  "updateMode": "forced",
-  "forceAfterMinutes": 1,
-  "publishedAtUtc": "2026-10-02T19:25:43.3303498Z",
+  "updateMode": "mandatory",
+  "forceAfterMinutes": 0,
+  "publishedAtUtc": "2026-10-03T21:11:39.3788788Z",
   "notes": [
-    "Mejoras de seguridad",
-    "Sistema de base de datos mejorada",
-    "Proxima actu mobil"
+    "Mejoras de sistema:",
+    "-se implemento conexion mobile",
+    "-sistema de conexion a nube tambien"
   ]
 }
