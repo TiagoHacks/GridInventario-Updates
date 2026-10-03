@@ -1,13 +1,14 @@
-﻿{
-    "appId":  "GridInvMobile",
-    "versionCode":  6,
-    "versionName":  "0.4.1",
-    "apkUrl":  "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/mobile-v0.4.1/GridInvMobile-v0.4.1.apk",
-    "sha256":  "4ca083727438c3063186ad3c0401031b1f5a9e9b0385f430f2709610eb17bb2a",
-    "mandatory":  false,
-    "publishedAtUtc":  "2026-10-03T20:57:48.8337242Z",
-    "notes":  [
-                  "Nueva versiÃ³n de GridInv Mobile.",
-                  "Mejoras de estabilidad y compatibilidad Cloud."
-              ]
+{
+  "appId": "GridInvMobile",
+  "versionCode": 8,
+  "versionName": "0.4.3",
+  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/mobile-v0.4.3/GridInvMobile-v0.4.3.apk",
+  "sha256": "AQUI_VA_EL_SHA256_NUEVO",
+  "mandatory": false,
+  "publishedAtUtc": "2026-10-03T22:00:00Z",
+  "notes": [
+    "Control de cuentas y sucursales desde la app.",
+    "Asignación de múltiples sucursales a administradores.",
+    "Gestión de roles y usuarios desde Admin y Dev."
+  ]
 }
