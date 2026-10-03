@@ -1,9 +1,9 @@
 {
   "appId": "GridInventario",
   "channel": "stable",
-  "version": "2.2.0.0",
-  "displayVersion": "v2.2.0 STABLE",
-  "packageUrl": "GridInventario_v2.2.0_STABLE.zip",
+  "version": "2.2.3.0",
+  "displayVersion": "v2.2.3 STABLE",
+  "packageUrl": "GridInventario_v2.2.3_STABLE.zip",
   "sha256": "sha256:302008affab67df7bd1a6188c565fd459dedf16f6b24ddc026856bed4994ed8f",
   "mandatory": true,
   "updateMode": "mandatory",
