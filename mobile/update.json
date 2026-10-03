@@ -1,0 +1,13 @@
+﻿{
+    "appId":  "GridInvMobile",
+    "versionCode":  6,
+    "versionName":  "0.4.1",
+    "apkUrl":  "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/mobile-v0.4.1/GridInvMobile-v0.4.1.apk",
+    "sha256":  "4ca083727438c3063186ad3c0401031b1f5a9e9b0385f430f2709610eb17bb2a",
+    "mandatory":  false,
+    "publishedAtUtc":  "2026-10-03T20:57:48.8337242Z",
+    "notes":  [
+                  "Nueva versiÃ³n de GridInv Mobile.",
+                  "Mejoras de estabilidad y compatibilidad Cloud."
+              ]
+}
