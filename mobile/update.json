@@ -1,9 +1,9 @@
 {
   "appId": "GridInvMobile",
-  "versionCode": 10,
+  "versionCode": 11,
   "versionName": "0.4.5",
-  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.4.5-Stable/GridInvMobile-v0.4.5.apk",
-  "sha256": "3c2c448b0eb3e4afbd4f4bf252363bc055c809c9940d6e90514e86ffef8d8eb5",
+  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.4.6-Stable/GridInvMobile-v0.4.6.apk",
+  "sha256": "f438109b6d43b8ac333171dd347221bc1ae97f4963181371bbb57dbad591cf36",
   "mandatory": false,
   "publishedAtUtc": "2026-10-04T17:33:27Z",
   "notes": [
