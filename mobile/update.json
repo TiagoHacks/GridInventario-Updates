@@ -1,11 +1,11 @@
 {
   "appId": "GridInvMobile",
   "versionCode": 8,
-  "versionName": "0.4.3",
-  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.4.3-Stable/GridInvMobile-v0.4.3.apk",
-  "sha256": "1b1ea6bd61e3b3a8863f45490ea2feeaa6983f721058162603e1abeb700e204a",
+  "versionName": "0.4.4",
+  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.4.4-Stable/GridInvMobile-v0.4.4.apk",
+  "sha256": "51384d2da6da4f3fa6cd65dfd5df5125cd4b7aaa84db777a22d8e04c61c91a17",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-03T22:53:07Z",
+  "publishedAtUtc": "2026-10-04T16:11:21Z",
   "notes": [
     "Mejoras en la administracion de cuentas.",
     "Gestion de sucursales para administradores.",
