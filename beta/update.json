@@ -1,15 +1,15 @@
 {
   "appId": "GridInventario",
   "channel": "stable",
-  "version": "2.2.3.0",
-  "displayVersion": "v2.2.3 STABLE",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.3-STABLE/GridInventario_v2.2.3_STABLE.zip",
-  "sha256": "sha256:302008affab67df7bd1a6188c565fd459dedf16f6b24ddc026856bed4994ed8f",
-  "mandatory": false,
-  "updateMode": "optional",
-  "forceAfterMinutes": 0,
-  "publishedAtUtc": "2026-10-03T21:33:20.0756387Z",
+  "version": "2.2.4.0",
+  "displayVersion": "v2.2.4 STABLE",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.4-STABLE/GridInventario_v2.2.4_STABLE.zip",
+  "sha256": "sha256:d46714e953eb5c1909313dbc30d073265f13c6966d19cbf85af7eae066a7b533",
+  "mandatory": true,
+  "updateMode": "forced",
+  "forceAfterMinutes": 10,
+  "publishedAtUtc": "2026-10-04T17:51:22.6046084Z",
   "notes": [
-    "SOLUCIONDE UPDATE"
+    "Mejoras de conexxion a servidor"
   ]
 }
