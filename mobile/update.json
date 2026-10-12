@@ -1,14 +1,15 @@
 {
   "appId": "GridInvMobile",
-  "versionCode": 11,
-  "versionName": "0.4.5",
-  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.4.6-Stable/GridInvMobile-v0.4.6.apk",
-  "sha256": "f438109b6d43b8ac333171dd347221bc1ae97f4963181371bbb57dbad591cf36",
+  "versionCode": 19,
+  "versionName": "0.5.4",
+  "apkUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v0.5.4-Stable/GridInvMobile-v0.5.4.apk",
+  "sha256": "739a46326654b68ce5e60c2f0bb71aa42c4cf759a73ec2878e458da5c8344564",
   "mandatory": false,
-  "publishedAtUtc": "2026-10-04T17:33:27Z",
+  "publishedAtUtc": "2026-10-12T23:05:00Z",
   "notes": [
-    "Mejoras en la administracion de cuentas.",
-    "Gestion de sucursales para administradores.",
-    "Nuevas opciones de control para Dev."
+    "Nuevo flujo de conteo para trabajadores.",
+    "El conteo nuevo reemplaza el stock anterior y conserva historial.",
+    "Mejoras en aumentar y restar mercaderia con ingreso manual de cantidades.",
+   
   ]
 }
