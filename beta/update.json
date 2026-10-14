@@ -1,6 +1,6 @@
 {
   "appId": "GridInventario",
-  "channel": "beta",
+  "channel": "stable",
   "version": "2.5.6",
   "displayVersion": "v2.5.6 STABLE",
   "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.5.6-STABLE/GridInventario_v2.5.6-STABLE.zip",
