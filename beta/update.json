@@ -1,15 +1,16 @@
 {
   "appId": "GridInventario",
   "channel": "stable",
-  "version": "2.2.4.0",
-  "displayVersion": "v2.2.4 STABLE",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.4-STABLE/GridInventario_v2.2.4_STABLE.zip",
-  "sha256": "sha256:d46714e953eb5c1909313dbc30d073265f13c6966d19cbf85af7eae066a7b533",
+  "version": "2.5.6",
+  "displayVersion": "v2.5.6 STABLE",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.6-STABLE/GridInventario_v2.2.6-STABLE.zip/GridInventario_v2.5.6_STABLE.zip",
+  "sha256": "sha256:bbc2a65b7db7f496ac29bf431e9dc14d0fb53aefa427c3b9ae1ed95693694db2",
   "mandatory": true,
-  "updateMode": "forced",
-  "forceAfterMinutes": 10,
-  "publishedAtUtc": "2026-10-04T17:51:22.6046084Z",
+  "updateMode": "mandatory",
+  "forceAfterMinutes": 0,
+  "publishedAtUtc": "2026-10-14T20:15:15.3233178Z",
   "notes": [
-    "Mejoras de conexxion a servidor"
+    "Se implemento el sistema de comparativa",
+    "Se implemento el apartado de tareas"
   ]
 }
