@@ -1,16 +1,16 @@
 {
   "appId": "GridInventario",
   "channel": "stable",
-  "version": "2.5.6",
-  "displayVersion": "v2.5.6 STABLE",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.5.6-STABLE/GridInventario_v2.5.6-STABLE.zip",
-  "sha256": "sha256:bbc2a65b7db7f496ac29bf431e9dc14d0fb53aefa427c3b9ae1ed95693694db2",
+  "version": "2.2.7.0",
+  "displayVersion": "v2.2.7-STABLE",
+  "packageUrl": "GridInventario_v2.2.7-STABLE.zip",
+  "sha256": "sha256:9d1d1e8565d1cbabffad6fb49c5b8b3cfd557331d2c045df4ea593d440cb350d",
   "mandatory": true,
   "updateMode": "mandatory",
   "forceAfterMinutes": 0,
-  "publishedAtUtc": "2026-10-14T20:15:15.3233178Z",
+  "publishedAtUtc": "2026-10-22T16:11:21.7024845Z",
   "notes": [
-    "Se implementó el sistema de comparativa.",
-    "Se implementó el apartado de tareas."
+    "Mejoras del apartado de lisencias",
+    "Conexion con la nube"
   ]
 }
