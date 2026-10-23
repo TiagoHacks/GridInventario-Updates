@@ -1,16 +1,15 @@
 {
   "appId": "GridInventario",
   "channel": "stable",
-  "version": "2.2.7.0",
-  "displayVersion": "v2.2.7-STABLE",
-  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.7-STABLE/GridInventario_v2.2.7-STABLE.zip",
-  "sha256": "sha256:9d1d1e8565d1cbabffad6fb49c5b8b3cfd557331d2c045df4ea593d440cb350d",
+  "version": "2.2.8.0",
+  "displayVersion": "v2.2.8-STABLE",
+  "packageUrl": "GridInventario_v2.2.8-STABLE.zip",
+  "sha256": "sha256:6b1fb9efbe610d430dc16dd725f7d09d23b46689f09179cf311edf7cc80cfb83",
   "mandatory": true,
   "updateMode": "mandatory",
   "forceAfterMinutes": 0,
-  "publishedAtUtc": "2026-10-22T16:11:21.7024845Z",
+  "publishedAtUtc": "2026-10-23T20:23:37.8455205Z",
   "notes": [
-    "Mejoras del apartado de lisencias",
-    "Conexion con la nube"
+    "Mejora de licencias"
   ]
 }
