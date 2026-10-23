@@ -3,7 +3,7 @@
   "channel": "stable",
   "version": "2.2.8.0",
   "displayVersion": "v2.2.8-STABLE",
-  "packageUrl": "GridInventario_v2.2.8-STABLE.zip",
+  "packageUrl": "https://github.com/TiagoHacks/GridInventario-Updates/releases/download/v2.2.8-STABLE/GridInventario_v2.2.8-STABLE.zip",
   "sha256": "sha256:6b1fb9efbe610d430dc16dd725f7d09d23b46689f09179cf311edf7cc80cfb83",
   "mandatory": true,
   "updateMode": "mandatory",
